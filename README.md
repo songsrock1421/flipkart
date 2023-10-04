@@ -12,13 +12,19 @@ Kunal Parekh - https://github.com/ParekhKunal
 ## 📊 GitHub Stats
 
 <a href="https://github.com/mehulminat">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehulminat&show_icons=true&theme=tokyonight)
+
 </a>
 <br>
 <a href="https://github.com/devarshidoshi">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devarshidoshi&show_icons=true&theme=tokyonight)
+
 </a>
 <br>
 <a href="https://github.com/ParekhKunal">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ParekhKunal&show_icons=true&theme=tokyonight)
+
 </a>
