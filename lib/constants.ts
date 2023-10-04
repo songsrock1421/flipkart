@@ -7,3 +7,5 @@ export const WEBHOOK_URL =
 
 export const DEFAULT_PATTERN =
   "https://i.ibb.co/KWs4z4d/black.jpg";
+
+  // upgrade to s3 for static content [ticket #1 ]
