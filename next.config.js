@@ -7,6 +7,7 @@ const nextConfig = {
     domains: [
       "w3hp0wwfpdgpzwdt.public.blob.vercel-storage.com",
       "xd2kcvzsdpeyx1gu.public.blob.vercel-storage.com",
+      "x9lgevntgpwxtnr7.public.blob.vercel-storage.com",
       "replicate.delivery",
     ],
   },
