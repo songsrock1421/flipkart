@@ -15,8 +15,8 @@ export async function generateMetadata({
     return;
   }
 
-  const title = `OctoArt: ${data.prompt}`;
-  const description = `An octo art generated from the prompt: ${data.prompt}`;
+  const title = `Flipkart: ${data.prompt}`;
+  const description = `An flipkart generated from the prompt: ${data.prompt}`;
   const image = data.image || "https://flipkartdemo.vercel.app/opengraph-image.png";
 
   return {

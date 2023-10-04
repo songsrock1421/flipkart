@@ -20,9 +20,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "OctoArt",
+  title: "Flipkart",
   description:
-    "Generate beautiful GitHub octocat art with one click. Promote open-source!",
+    "Generate beautiful Flipkart art with one click.",
   metadataBase: new URL("https://flipkartdemo.vercel.app"),
 };
 
@@ -50,28 +50,15 @@ export default function RootLayout({
               className="mt-8 flex items-center font-display text-2xl"
             >
               <Image
-                src="/logo.png"
-                alt="Logo image of OctoArt"
+                src="/white.png"
+                alt="Logo image of Flipkart"
                 width="100"
                 height="100"
                 className="mr-2 rounded-sm"
               ></Image>
-              <p>OctoArt</p>
+              <p>Flipkart</p>
             </Link>
             <div className="flex items-center space-x-4">
-              <Link
-                href="/gallery"
-                className="text-violet-400 hover:text-violet-600"
-              >
-                Gallery
-              </Link>
-              <a
-                href="https://github.com/garrrikkotua/octoart"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <Github />
-              </a>
             </div>
           </div>
         </div>
@@ -79,28 +66,6 @@ export default function RootLayout({
           {children}
         </main>
         <div className="absolute w-full py-5 text-center">
-          <p className="text-gray-500">
-            A project by{" "}
-            <a
-              className="font-semibold text-gray-600 underline-offset-4 transition-colors hover:underline"
-              href="https://twitter.com/garrrikkotua"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Igor Kotua
-            </a>
-          </p>
-          <p>
-            Subscribe to my{" "}
-            <a
-              className="font-semibold text-violet-500 underline-offset-4 transition-colors hover:underline"
-              href="https://stargazerweekly.beehiiv.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              newsletter
-            </a>
-          </p>
         </div>
         <Analytics />
       </body>
