@@ -6,4 +6,4 @@ export const WEBHOOK_URL =
     : `${process.env.NGROK_URL}/api/webhook`;
 
 export const DEFAULT_PATTERN =
-  "https://github.com/songsrock1421/flipkart/blob/main/public/black.jpg";
+  "https://i.ibb.co/KWs4z4d/black.jpg";

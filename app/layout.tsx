@@ -50,7 +50,7 @@ export default function RootLayout({
               className="mt-8 flex items-center font-display text-2xl"
             >
               <Image
-                src="/white.png"
+                src="/white.jpg"
                 alt="Logo image of Flipkart"
                 width="100"
                 height="100"
