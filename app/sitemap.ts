@@ -19,11 +19,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     {
-      url: "https://octoart.vercel.app",
+      url: "https://flipkartdemo.vercel.app",
       lastModified: new Date().toISOString(),
     },
     ...ids.map((id) => ({
-      url: `https://octoart.vercel.app/t/${id}`,
+      url: `https://flipkartdemo.vercel.app/t/${id}`,
       lastModified: new Date().toISOString(),
     })),
   ];

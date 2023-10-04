@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   title: "OctoArt",
   description:
     "Generate beautiful GitHub octocat art with one click. Promote open-source!",
-  metadataBase: new URL("https://octoart.vercel.app"),
+  metadataBase: new URL("https://flipkartdemo.vercel.app"),
 };
 
 export default function RootLayout({

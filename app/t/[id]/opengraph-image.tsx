@@ -25,7 +25,7 @@ export default async function DynamicOG({
         style={{
           fontFamily: "Inter",
           backgroundImage: `url(${
-            data.image || "https://octoart.vercel.app/opengraph-image.png"
+            data.image || "https://flipkartdemo.vercel.app/opengraph-image.png"
           })`,
           backgroundSize: "1200px 1200px",
           backgroundRepeat: "no-repeat",
