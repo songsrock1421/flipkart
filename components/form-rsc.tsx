@@ -21,11 +21,11 @@ export default function FormRSC({
 
       <Image
         className="animate-fade-up bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display text-4xl font-bold tracking-[-0.02em] text-transparent opacity-0 drop-shadow-sm [text-wrap:balance] md:text-7xl md:leading-[5rem] mx-auto"
-        style={{ animationDelay: "0.15s", animationFillMode: "forwards" }}
-        src="/Flipkart-header-logo.png"
-                alt="Logo image of Flipkart"
-                width="100"
-                height="100"
+        style={{ animationDelay: "0.15s", animationFillMode: "forwards", marginInline:'auto' }}
+        src="/Flipkart-logo.png"
+        alt="Logo image of Flipkart"
+        width="100"
+        height="100"
       >
       </Image>
       <p
