@@ -44,7 +44,7 @@ export default function RootLayout({
               : "bg-white/0"
           } z-30 transition-all`}
         >
-          <div className="mx-6 flex h-16 max-w-screen-xl items-center justify-between xl:mx-auto">
+          <div className="mx-6 flex h-16 max-w-screen-xl items-center justify-between xl:mr-auto">
             <Link
               href="/"
               className="mt-8 flex items-center font-display text-2xl"
