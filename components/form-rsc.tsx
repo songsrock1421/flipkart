@@ -24,7 +24,7 @@ export default function FormRSC({
         style={{ animationDelay: "0.15s", animationFillMode: "forwards", marginInline:'auto' }}
         src="/Flipkart-logo.png"
         alt="Logo image of Flipkart"
-        width="100"
+        width="200"
         height="100"
       >
       </Image>
