@@ -32,7 +32,7 @@ export default async function DynamicOG({
           backgroundPosition: "center center",
         }}
       >
-        <div
+        {/* <div
           tw="absolute flex bottom-[48px] flex items-center basis-full lg:basis-auto"
           style={{ gap: 28 }}
         >
@@ -86,7 +86,7 @@ export default async function DynamicOG({
               </g>
             </svg>
           </div>
-        </div>
+        </div> */}
       </div>
     ),
     {
